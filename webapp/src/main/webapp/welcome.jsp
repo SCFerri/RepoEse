@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<form action="login">
+<form action="login" method="post">
 	<input type="text" id="nome" name="nome" placeholder="Nome" required="required"> 
 	<input type="text" id="cognome" name="cognome" placeholder="Cognome" required="required"> 
 	<input type="text" id="numero" name="numero" placeholder="Numero Preferito" required="required"> 
