@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Entra nella mia lista di eeseri umani</title>
+<title>Entra nella mia lista di esseri umani</title>
 </head>
 <body>
 
